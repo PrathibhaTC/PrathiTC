@@ -1,0 +1,2 @@
+# PrathiTC
+NewGitHubRepository
